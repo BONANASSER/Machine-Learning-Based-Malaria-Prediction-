@@ -115,7 +115,7 @@ Prerequisites:
 5) Expected outputs
 - Trained model
   
-#Results Summary (Concise)
-Best-Performing Models (on reported test split): Decision Tree, Random Forest (100.00%); ANN (99.09%)
-Other models: SVM (94.54%), KNN (88.18%), Logistic Regression (85.45%)
-Top features: Body temperature, Travel history
+# Results Summary (Concise)
+- Best-Performing Models (on reported test split): Decision Tree, Random Forest (100.00%); ANN (99.09%)
+- Other models: SVM (94.54%), KNN (88.18%), Logistic Regression (85.45%)
+- Top features: Body temperature, Travel history
