@@ -94,7 +94,7 @@ Prerequisites:
 - Required packages installed from requirements.txt
 
 1) Clone the repository
-- git clone https://github.com/your-organization/Machine-Learning-Based-Malaria-Prediction.git
+- git clone (https://github.com/BONANASSER/Machine-Learning-Based-Malaria-Prediction-)
 - cd Machine-Learning-Based-Malaria-Prediction
 
 2) Create and activate a virtual environment
